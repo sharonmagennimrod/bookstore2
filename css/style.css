@@ -12,3 +12,15 @@ a {
     color: rgb(7, 205, 73);
     font-family: 'lucida handwriting';
 }
+
+
+.copyrights {
+    position : absolute;
+    bottom: 10px;
+    width: 100%;
+    margin: 0;
+
+    font-size: small;
+    color: rgb(2, 44, 255);
+}
+
