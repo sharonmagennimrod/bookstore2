@@ -1,15 +1,17 @@
 html, body { 
     height: 100%;
-    background-color: #eaffa0;
+    background-color: #3e3e3d;
     text-align: center;
     font-size: x-large;
+    
+
 a {
-    color:blue;
+    color:rgb(217, 217, 218);
     margin: 20px;
 }
 
 .active {
-    color: rgb(7, 205, 73);
+    color: rgb(137, 141, 138);
     font-family: 'lucida handwriting';
 }
 
@@ -21,6 +23,6 @@ a {
     margin: 0;
 
     font-size: small;
-    color: rgb(2, 44, 255);
+    color: rgb(228, 228, 228);
 }
 
