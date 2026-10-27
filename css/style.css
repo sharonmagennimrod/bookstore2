@@ -3,7 +3,12 @@ html, body {
     background-color: #eaffa0;
     text-align: center;
     font-size: x-large;
+a {
+    color:blue;
+    margin: 20px;
+}
 
-
-
+.active {
+    color: rgb(7, 205, 73);
+    font-family: 'lucida handwriting';
 }
